@@ -1,0 +1,19 @@
+Ex03_01 - Adderare.java         En klass med metod som tar mer än en parameter.
+Ex03_02 - VardeAnrop.java       Visar vad som sker vid värdeanrop (primitiva).
+Ex03_03 - ReferensAnrop.java    Visar vad som sker vid värdeanrop (objekt).
+Ex03_04 - Person2.java          Lagt till set() och get() metoder.
+Ex03_05 - PersonTest2.java      Skapar objekt av klassen Person2.
+Ex03_06 - Adderare2.java        Överlagring av metod, kan beräkna decimaltal.
+Ex03_07 - Person3.java          Överlagrat setNamn() så vi själva matar in namn.
+Ex03_08 - PersonTest3.java      Skapar objekt av klassen Person3 med dialogru...
+Ex03_09 - Punkt.java            Våran Punkt-klass nu med en konstruktor
+Ex03_10 - PunktTest.java	Skapar objekt med hjälp av konstruktorn
+Ex03_11 - Person4.java          Lagt till konstruktorer i klassen.
+Ex03_12 - PersonTest4.java      Skapar objekt av klassen mha konstruktorerna.
+Ex03_13 - Person5.java          Statiska fält och metoder. Räknar antal objekt.
+Ex03_14 - PersonTest5.java      Provar klassen Person5.
+Ex03_15 - Person6.java          Lagt till metoden toString().
+Ex03_16 - PersonTest6.java      Provar klassen Person6.
+Ex03_17 - Namn.java             Representerar ett namn med för- och efternamn.
+Ex03_18 - Person.java           Den slutliga person-klassen med javadoc komm...
+Ex03_19 - PersonTest.java       Skapar olika objekt av Person och Namn.

@@ -1,0 +1,7 @@
+Ex06_01 - StringReverser.java   Använder length(), charAt(). Sträng bakvänd
+Ex06_02 - Filnamn.java          Använder lastIndexOf() och substring()
+Ex06_03 - CompareTo.java        compareTo() för att kolla alfabetisk ordning
+Ex06_04 - StringTest.java       Mäter hur (o)effektiv klassen String är
+Ex06_05 - StringBufferTest.java Mäter hur effektiv klassen StringBuffer är
+Ex06_06 - Palindrom.java        StringTokenizer för att avgöra om palindrom
+Ex06_07 - ScannerTest.java      Använder Scanner för att läsa från fil

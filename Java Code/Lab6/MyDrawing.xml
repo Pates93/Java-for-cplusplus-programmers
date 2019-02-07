@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<drawing>
+    <name>Pætur</name>
+    <author>MasterPiece</author>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="circle">
+        <color>Black</color>
+        <point>
+            <xcord>0.0</xcord>
+            <ycord>3.0</ycord>
+        </point>
+        <point>
+            <xcord>5.0</xcord>
+            <ycord>3.0</ycord>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="circle">
+        <color>Red</color>
+        <point>
+            <xcord>1.0</xcord>
+            <ycord>4.0</ycord>
+        </point>
+        <point>
+            <xcord>7.0</xcord>
+            <ycord>11.0</ycord>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="circle">
+        <color>Orange</color>
+        <point>
+            <xcord>0.0</xcord>
+            <ycord>7.0</ycord>
+        </point>
+        <point>
+            <xcord>7.0</xcord>
+            <ycord>4.0</ycord>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>Blue</color>
+        <point>
+            <xcord>100.0</xcord>
+            <ycord>34.0</ycord>
+        </point>
+        <point>
+            <xcord>10.0</xcord>
+            <ycord>5.0</ycord>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>Pink</color>
+        <point>
+            <xcord>12.0</xcord>
+            <ycord>33.0</ycord>
+        </point>
+        <point>
+            <xcord>1.0</xcord>
+            <ycord>2.0</ycord>
+        </point>
+    </shape>
+</drawing>

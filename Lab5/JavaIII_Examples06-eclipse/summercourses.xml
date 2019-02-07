@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!DOCTYPE summercourses SYSTEM "summercourses.dtd">
+
+<summercourses year="2015">
+  <course code="MIU-F2079" start="24" end="35">
+    <coursecode>DT150G</coursecode>
+    <name>Flash, Photoshop och Datakunskap</name>
+    <points>7.5</points>
+    <description>Här lär du dig skapa och hantera bilder och flashapplikationer för webben. Bildbehandlingens fokus är bilder för hemsidor och att få dessa att passa ihop. Du lär dig att skapa komponenter som knappar och menyer i Flash men också att skapa animationer och bilder. I huvudsak används de grafiska verktygen men du introduceras även i skriptspråket Actionscript.</description>
+  </course>
+  <course code="MIU-F4040" start="24" end="35">
+    <coursecode>DT006G</coursecode>
+    <name>Java I</name>
+    <points>7.5</points>
+    <description>Java är ett modernt, logiskt och enkelt uppbyggt språk som används för såväl webbaserade och fristående applikationer som mobiltelefoner. Kursen behandlar grundläggande allmängiltiga begrepp inom programmering. Exempel på sådana begrepp är variabler, metoder och styrsatser. Dessutom introduceras grundläggande begrepp i objektorienterad programmering.</description>
+  </course>
+  <course code="MIU-C4039" start="24" end="35">
+    <coursecode>DT031G</coursecode>
+    <name>Applikationsutveckling för Android</name>
+    <points>7.5</points>
+    <description>Android är en ny öppen plattform för mobiltelefoner baserad på Linux och med Google som en av de drivande utvecklarna. I kursen får du teoretiska kunskaper om plattformen och de komponenter som utgör operativsystemet i Android. Du lär dig också det praktiska arbetet för att kunna konstruera och implementera applikationer för Android.</description>
+  </course>
+</summercourses>

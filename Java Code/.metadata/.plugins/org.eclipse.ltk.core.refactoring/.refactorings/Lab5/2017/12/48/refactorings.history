@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;dt062g.olpa1600.assignment5.Circles.java&apos; to &apos;Circle.java&apos;&#x0D;&#x0A;- Original project: &apos;Lab5&apos;&#x0D;&#x0A;- Original element: &apos;dt062g.olpa1600.assignment5.Circles.java&apos;&#x0D;&#x0A;- Renamed element: &apos;dt062g.olpa1600.assignment5.Circle.java&apos;" description="Rename compilation unit &apos;Circles.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;dt062g.olpa1600.assignment5{Circles.java" name="Circle.java" references="false" stamp="1512129735637" version="1.0"/>
+</session>

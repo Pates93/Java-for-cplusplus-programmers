@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;dt062g.olpa1600.assignment5&apos; to &apos;Lab6/src&apos;&#x0D;&#x0A;- Original project: &apos;Lab5&apos;&#x0D;&#x0A;- Destination element: &apos;Lab6/src&apos;&#x0D;&#x0A;- Original element: &apos;Lab5/src/dt062g.olpa1600.assignment5&apos;" description="Copy package" destination="=Lab6/src" element1="/src&lt;dt062g.olpa1600.assignment5" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1512561107639" version="1.0"/>
+</session>

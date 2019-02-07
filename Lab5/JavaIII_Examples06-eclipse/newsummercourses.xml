@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE summercourses SYSTEM "summercourses.dtd">
+<summercourses year="2015">
+<course code="MIU-F2099" end="35" start="24">
+<coursecode>DT153G</coursecode>
+<name>Nätverksteknik A</name>
+<point>7.5</point>
+<description>Det här är en kurs för dig som är intresserad av de grundläggande begreppen och tillvägagångssätten inom datornätverk. Kursen behandlar de grundläggande delarna för att kunna arbeta och administrera ett datornätverk. Kursen ger dig både teoretiska och praktiska kunskaper om grundläggande datornätverk, exempelvis nätverksdesign, routing och switching och de fundamentala protokollen som vanligast används idag, så som Ethernet, IP, TCP och UDP. Tillsammans med fortsättningskursen Nätverksteknik B ger dessa kurser möjligheten till att senare ta en CCNA-certifiering.</description>
+</course>
+</summercourses>

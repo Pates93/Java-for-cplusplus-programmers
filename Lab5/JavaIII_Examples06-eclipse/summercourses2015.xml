@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<summercourse year="2015">
+    <course code="MIU-C4034" start="24" end="36">
+        <coursecode>DT006G</coursecode>
+        <name>Java I</name>
+        <points>7.5</points>
+        <description>Första kursen i vår Java-stege.</description>
+    </course>
+    <course code="MIU-C4035" start="24" end="36">
+        <coursecode>DT007G</coursecode>
+        <name>Java II</name>
+        <points>7.5</points>
+        <description>Andra kursen i vår Java-stege.</description>
+    </course>
+    <course code="MIU-C4036" start="24" end="36">
+        <coursecode>DT066G</coursecode>
+        <name>Java III</name>
+        <points>7.5</points>
+        <description>Sista kursen i vår Java-stege.</description>
+    </course>
+</summercourse>

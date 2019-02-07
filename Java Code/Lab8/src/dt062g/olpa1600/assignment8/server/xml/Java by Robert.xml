@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<drawing>
+    <name>Java</name>
+    <author>Robert</author>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>#00ff00</color>
+        <point>
+            <x>50.0</x>
+            <y>50.0</y>
+        </point>
+        <point>
+            <x>550.0</x>
+            <y>300.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>#0000ff</color>
+        <point>
+            <x>143.0</x>
+            <y>122.0</y>
+        </point>
+        <point>
+            <x>166.0</x>
+            <y>234.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>#0000ff</color>
+        <point>
+            <x>166.0</x>
+            <y>234.0</y>
+        </point>
+        <point>
+            <x>87.0</x>
+            <y>213.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>#0000ff</color>
+        <point>
+            <x>87.0</x>
+            <y>213.0</y>
+        </point>
+        <point>
+            <x>110.0</x>
+            <y>178.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>#000000</color>
+        <point>
+            <x>183.0</x>
+            <y>235.0</y>
+        </point>
+        <point>
+            <x>206.0</x>
+            <y>121.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>#000000</color>
+        <point>
+            <x>206.0</x>
+            <y>121.0</y>
+        </point>
+        <point>
+            <x>255.0</x>
+            <y>144.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>#000000</color>
+        <point>
+            <x>255.0</x>
+            <y>144.0</y>
+        </point>
+        <point>
+            <x>233.0</x>
+            <y>235.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>#000000</color>
+        <point>
+            <x>205.0</x>
+            <y>186.0</y>
+        </point>
+        <point>
+            <x>235.0</x>
+            <y>167.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>#ff0000</color>
+        <point>
+            <x>279.0</x>
+            <y>121.0</y>
+        </point>
+        <point>
+            <x>301.0</x>
+            <y>213.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>#ff0000</color>
+        <point>
+            <x>301.0</x>
+            <y>213.0</y>
+        </point>
+        <point>
+            <x>326.0</x>
+            <y>237.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>#ff0000</color>
+        <point>
+            <x>326.0</x>
+            <y>213.0</y>
+        </point>
+        <point>
+            <x>352.0</x>
+            <y>121.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>#ffff00</color>
+        <point>
+            <x>379.0</x>
+            <y>242.0</y>
+        </point>
+        <point>
+            <x>404.0</x>
+            <y>124.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>#ffff00</color>
+        <point>
+            <x>404.0</x>
+            <y>124.0</y>
+        </point>
+        <point>
+            <x>469.0</x>
+            <y>149.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>#ffff00</color>
+        <point>
+            <x>469.0</x>
+            <y>149.0</y>
+        </point>
+        <point>
+            <x>446.0</x>
+            <y>242.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>#ffff00</color>
+        <point>
+            <x>404.0</x>
+            <y>190.0</y>
+        </point>
+        <point>
+            <x>446.0</x>
+            <y>171.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="circle">
+        <color>#0000ff</color>
+        <point>
+            <x>50.0</x>
+            <y>50.0</y>
+        </point>
+        <point>
+            <x>70.0</x>
+            <y>50.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="circle">
+        <color>#0000ff</color>
+        <point>
+            <x>550.0</x>
+            <y>50.0</y>
+        </point>
+        <point>
+            <x>570.0</x>
+            <y>50.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="circle">
+        <color>#0000ff</color>
+        <point>
+            <x>550.0</x>
+            <y>300.0</y>
+        </point>
+        <point>
+            <x>570.0</x>
+            <y>300.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="circle">
+        <color>#0000ff</color>
+        <point>
+            <x>50.0</x>
+            <y>300.0</y>
+        </point>
+        <point>
+            <x>70.0</x>
+            <y>300.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>#000000</color>
+        <point>
+            <x>70.0</x>
+            <y>50.0</y>
+        </point>
+        <point>
+            <x>530.0</x>
+            <y>52.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>#000000</color>
+        <point>
+            <x>550.0</x>
+            <y>70.0</y>
+        </point>
+        <point>
+            <x>552.0</x>
+            <y>281.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>#000000</color>
+        <point>
+            <x>70.0</x>
+            <y>300.0</y>
+        </point>
+        <point>
+            <x>530.0</x>
+            <y>302.0</y>
+        </point>
+    </shape>
+    <shape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="rectangle">
+        <color>#000000</color>
+        <point>
+            <x>50.0</x>
+            <y>70.0</y>
+        </point>
+        <point>
+            <x>48.0</x>
+            <y>280.0</y>
+        </point>
+    </shape>
+</drawing>

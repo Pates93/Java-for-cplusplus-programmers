@@ -1,0 +1,14 @@
+<!-- rot-elementet summercourses -->
+<!ELEMENT summercourses (course)*>
+<!ATTLIST summercourses year CDATA #REQUIRED>
+
+<!-- elementet course -->
+<!ELEMENT course (coursecode, name, points, description?)>
+<!ATTLIST course code CDATA #REQUIRED>
+<!ATTLIST course start CDATA #REQUIRED>
+<!ATTLIST course end CDATA #REQUIRED>
+
+<!ELEMENT coursecode (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT points (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
